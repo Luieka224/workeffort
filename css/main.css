@@ -1,0 +1,4 @@
+/* * {outline: solid red 1px}; */
+
+table#TABLE_workData tr:nth-child(even){background-color: #4a5568;}table#TABLE_workData tr:nth-child(odd){background-color: #718096;}table#TABLE_workData th{background-color: 1a202c;}
+
